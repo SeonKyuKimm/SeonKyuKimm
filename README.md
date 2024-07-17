@@ -7,7 +7,11 @@
 	<h3><b>SeonKyuKimm's ReadMe</b><br></h3>
 </div>
 
-<details>포트폴리오 (PPT) 링크 :https://www.canva.com/design/DAGIpg5f1oQ/1xiZkQCfUAGFXtwoK8K9IA/edit </details>
+<details>
+	포트폴리오 (PPT) 링크 :<br>
+	https://www.canva.com/design/DAGIpg5f1oQ/1xiZkQCfUAGFXtwoK8K9IA/edit <br>
+	https://www.canva.com/design/DAGFFvH6-Ts/d_RRd6-TmPLLA-2Ecg9nsQ/edit?utm_content=DAGFFvH6-Ts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+</details>
 
 
 <br>
