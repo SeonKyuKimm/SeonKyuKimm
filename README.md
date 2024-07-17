@@ -18,9 +18,9 @@
 
 <div align=center>
 	<p>About Me </p>
-  백석예술대학교 실용음악과 보컬
-  Web Surfing
-  Real Surfing
+  백석예술대학교 실용음악과 보컬전공<br>
+  Web Surfing<br>
+  Real Surfing<br>
 </div>
 
 <hr>
