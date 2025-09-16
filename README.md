@@ -59,7 +59,14 @@
 
 </div>
 <br><br><br>
-
+<div>
+	<span> 경력사항 </span>
+	<ul style="list-style : none">
+		<li>2024.08.16 EST SOFT 입사</li>
+		<li>2024.11.01 ~ 2024.12.31 롯데쇼핑몰 RCS 메시징 서비스 개발 </li>
+		<li>2025.01.02 ~2025.07.10 강원랜드 ERP 시스템 차세대 개발 </li>
+	</ul>
+</div>
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=E9D427&height=150&section=footer" />
 </div>
